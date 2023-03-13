@@ -7,13 +7,13 @@ tags: [action]
 ---
 
 ## How You Can Help
-<p>Commercially avalable helmets do not properly accomadate ethnic hairstyles. We want to make a difference, and allow people in all communities to safely participate in helmeted activies. Making a difference starts with you. By writting to inform helmet manufactuaers about this issue we can inspire change in our community and create a more inclusive future for everyone.</p>
-<p>These reasouces are designed to help make this process easier. If you are interested in making a difference, please consider writing about your personal experiences with this issue, your ideas to make a difference, and your impressions of this issue. Together we can make a difference!</p>
+<p>Commercially available helmets do not properly accommodate ethnic hairstyles. We want to make a difference and allow people in all communities to safely participate in helmeted activies. Making a difference starts with you. By writing to inform helmet manufacturers about this issue we can inspire change in our community and create a more inclusive future for everyone.</p>
+<p>These resources are designed to help make this process easier. If you are interested in making a difference, please consider writing about your personal experiences with this issue, your ideas to make a difference, and your impressions of this issue. Together we can make a difference!</p>
 
 ## Talking Points For A Letter
 <p>Here are some points to include in your letter</p>
 * The safety risks of an improperly fitting hemet
-* How helmets do not properly accommodate certain hairstyles.
+* How helmets do not properly accommodate certain hairstyles
 * How this disproportionately effects certain ethnic groups
 * How this issue excludes some ethnic groups from activities that require helmets
 * If you have a personal experience with this issue consider sharing
@@ -51,7 +51,7 @@ tags: [action]
 #### [Schwinn](https://www.schwinnbikes.com/collections/all-helmets?activeSort=featured&activeSortDirection=ascending)
 **Email**: [Contact](https://help.schwinnbikes.com/hc/en-us/requests/new)<br>
 **Phone**: 800-626-2811<br>
-**Hours of Operation**: Monday-Friday, 6 am to 7 pm CT Our phone lines are closed weekends and for most major U.S. holidays.
+**Hours of Operation**: Monday-Friday, 6 am to 7 pm CT. Our phone lines are closed weekends and for most major U.S. holidays.
 
 ### Climbing
 #### [Black Diamond](https://www.blackdiamondequipment.com/en_US/)
