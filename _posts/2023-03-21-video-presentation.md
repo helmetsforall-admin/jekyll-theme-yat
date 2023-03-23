@@ -6,6 +6,6 @@ categories: action
 tags: [action]
 ---
 
-##Helmets and Equity
+## Helmets and Equity
 
-Here is a video presentation for more information on this issue: [link](https://youtu.be/8lgV2d9UPwA)
+Please watch [my video presentation](https://youtu.be/8lgV2d9UPwA) for more information on this issue.
